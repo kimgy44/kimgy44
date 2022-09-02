@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi (●'◡'●) 👋
 
 ![ ji yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgy44&show_icons=true&theme=radical)
 
