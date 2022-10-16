@@ -1,5 +1,5 @@
 ### Hi (●'◡'●) 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+
 
 ![ ji yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgy44&show_icons=true&theme=radical)
 
