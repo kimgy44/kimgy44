@@ -1,5 +1,5 @@
 ### Hi (●'◡'●) 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin6796%2Fhit-counter&count_bg=%23A2CDE1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today%2FTotal&edge_flat=false)](https://github.com/kimgy44)
+
 
 ![ ji yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgy44&show_icons=true&theme=radical)
 
